@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Ear plugs",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"2",
+    "name": "Wireless Headset",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 50.99
+  },
+  {
+    "id":"3",
+    "name": "Sleek Headset",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 29.78
+  },
+  {
+    "id":"4",
+    "name": "White Earphone",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"5",
+    "name": "Bass Headset",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"6",
+    "name": "Wireless Headset",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"7",
+    "name": "Noise Cancellation",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"8",
+    "name": "High Bass Headset",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"9",
+    "name": "Ear plugs",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  },
+  {
+    "id":"10",
+    "name": "Ear plugs",
+    "description": "Lorem ipsum, ndh gs",
+    "price": 30.99
+  }
+]
